@@ -1,0 +1,24 @@
+{
+  "name": "boatts",
+  "version": "0.0.0-dev",
+  "description": "A lone boat, with a straw-dressed old fisher, in the snow.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srclab-projects/boatts.git"
+  },
+  "keywords": [
+    "boatts"
+  ],
+  "author": "fredsuvn@163.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/srclab-projects/boatts/issues"
+  },
+  "homepage": "https://github.com/srclab-projects/boatts#readme"
+}
